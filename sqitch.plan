@@ -4,3 +4,5 @@
 
 schema_escola 2016-02-24T14:10:27Z gilmar <gilmar.castro@armazemparaiba.com.br> # add schema for escola
 table_aluno 2016-02-24T14:34:05Z gilmar <gilmar.castro@armazemparaiba.com.br> # criar table aluno
+matricula [table_aluno schema_escola] 2016-02-24T14:54:28Z gilmar <gilmar.castro@armazemparaiba.com.br> # Criar tabela de matricula de aluno
+@v1.0.0-1000 2016-02-24T15:04:15Z gilmar <gilmar.castro@armazemparaiba.com.br> # Tag da matricula e aluno
